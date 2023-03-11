@@ -1,4 +1,4 @@
-# Set up noVNC
+# Build and start the container
 
 ~~~
 docker compose build
